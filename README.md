@@ -1,3 +1,3 @@
-#todo
-there is two branch 
-two select master branch to read todo project.
+todo
+there is two branch
+select master branch to read todo project.
